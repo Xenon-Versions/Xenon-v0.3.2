@@ -28,7 +28,7 @@ Install it from [official website](https://www.python.org/downloads/)
 4. Open Windows PowerShell.
 5. Clone this repository by running the following command:
 
-<pre><code>git clone https://github.com/Xenon-Versions/Xenon-v0.3</code></pre>
+<pre><code>git clone https://github.com/Xenon-Versions/Xenon-v0.3.2</code></pre>
 
 5. Navigate to the cloned directory:
 
