@@ -34,6 +34,8 @@ def varset():
             if confirm_pass == "e":
                 noPas = False
                 break
+    else:
+        noPas = False
     data = {}
     data["name"] = name
     data["title"] = title
